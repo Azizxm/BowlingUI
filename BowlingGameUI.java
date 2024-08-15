@@ -1,3 +1,8 @@
+// Aziz Mohmand
+// COSC-1200-05
+// 08/14/2024
+// this is a simple bowling game UI i made for my fnal project for my class
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
